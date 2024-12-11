@@ -30,3 +30,5 @@ La différence principale entre **`nerdctl`** et **`ctr`** réside dans leur con
 ### **Résumé :**
 - **`ctr`** : Outil minimaliste et bas niveau pour interagir directement avec containerd, destiné aux experts et développeurs.
 - **`nerdctl`** : Une CLI conviviale et riche en fonctionnalités, conçue pour les utilisateurs finaux comme une alternative à Docker CLI, mais basée sur containerd.
+
+![image](https://github.com/user-attachments/assets/923bce4b-46a0-4565-9f5f-574a21ff583e)
